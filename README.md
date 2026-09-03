@@ -2,22 +2,22 @@
 
 Official Privacy Policy for all Universe Invedors mobile games.
 
-## 📱 Covered Games (39 Android Games)
+## 📱 Covered Games (40 Android Games)
 
 This privacy policy applies to all our mobile games available on Google Play Store.
 
 ## 🔗 Live Links
 
-- **Privacy Policy:** https://universe-invedors.github.io/privacy-policy/
-- **Terms of Service:** https://universe-invedors.github.io/privacy-policy/terms.html
-- **Contact:** https://universe-invedors.github.io/privacy-policy/contact.html
+- **Privacy Policy:** https://amadergolpoburi-bit.github.io/privacy-policy/
+- **Terms of Service:** https://amadergolpoburi-bit.github.io/privacy-policy/terms.html
+- **Contact:** https://amadergolpoburi-bit.github.io/privacy-policy/contact.html
 
 ## 📋 Quick Links for Google Play Store
 
 Use these URLs when publishing games to Google Play Store:
 
 ```
-Privacy Policy URL: https://universe-invedors.github.io/privacy-policy/
+Privacy Policy URL: https://amadergolpoburi-bit.github.io/privacy-policy/
 ```
 
 ## 🎮 Games Covered
@@ -61,6 +61,7 @@ Privacy Policy URL: https://universe-invedors.github.io/privacy-policy/
 37. Unicorn Magic World
 38. Velocity Rush
 39. Zenith Brick Breaker Premium
+40. 8-Ball Pool Legends
 
 ## 📧 Contact
 
@@ -80,7 +81,7 @@ For privacy-related questions or concerns:
 
 ## 📝 Last Updated
 
-August 27, 2026
+September 3, 2026
 
 ## 🏢 Company
 
